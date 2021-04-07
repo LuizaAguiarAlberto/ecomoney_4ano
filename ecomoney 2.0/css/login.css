@@ -1,0 +1,82 @@
+body{
+	min-height: 10vh;
+	background-color: #CCC;
+	background-image: url('../img/fundo_cadastro2.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.login-form {
+	padding: 0px 0px;
+	background-color:white;
+	opacity: 0.9;
+	color: #006400;
+	transform: translateY(20%);
+}
+
+.login-form h1{
+	margin: 0 0 5px;
+}
+
+.login-form h2{
+	margin: 0 0 30px;
+	font-size: 1em;
+}
+
+.btn-secondary{
+	background-color:#006400;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	margin-top: -1px;
+}
+
+.btn-secondary:hover{
+	background-color:#006400;
+}
+
+.btn-primary{
+	background-color:#006400;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+}
+
+.btn-primary:hover{
+	background-color:#006400;
+	border-bottom:  #006400;
+}
+
+
+.btn-secondary2{
+	background-color: #006400;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: white;
+}
+
+.btn-secondary2:hover{
+	color: white;
+	background-color: #006400;
+}
+
+.modal-title{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 21px;
+}
+
+.row{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+}
+
+.img-fluid{
+	height: 200px;
+	width: 1200px;
+}
+
+#email{
+	font-family: "Times New Roman", Times, serif;
+}
+
+#senha{
+	font-family: "Times New Roman", Times, serif;
+}
